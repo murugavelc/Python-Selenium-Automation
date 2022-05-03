@@ -1,0 +1,817 @@
+2022-03-31 13:43:09,700: INFO: ************ Test_001_Login ************
+2022-03-31 13:43:09,700: INFO: ************ Verifying Home page title  ************
+2022-03-31 13:43:18,125: INFO: ************ Home page title test id passed ************
+2022-03-31 13:43:21,393: INFO: ************ Verifying Login test ************
+2022-03-31 13:43:33,830: INFO: ************  Login test passed ************
+2022-03-31 13:46:00,444: INFO: ************ Test_001_Login ************
+2022-03-31 13:46:00,444: INFO: ************ Verifying Home page title  ************
+2022-03-31 13:46:05,499: ERROR: ************ Home page title test id failed ************
+2022-03-31 13:46:08,588: INFO: ************ Verifying Login test ************
+2022-03-31 13:52:19,926: INFO: ************ Test_001_Login ************
+2022-03-31 13:52:19,926: INFO: ************ Verifying Home page title  ************
+2022-03-31 13:52:29,066: INFO: ************ Home page title test is passed ************
+2022-03-31 13:52:32,915: INFO: ************ Verifying Login test ************
+2022-03-31 13:52:55,040: INFO: ************  Login test is passed ************
+2022-03-31 14:16:06,085: INFO: ************ Test_001_Login ************
+2022-03-31 14:16:06,085: INFO: ************ Verifying Home page title  ************
+2022-03-31 14:16:16,086: INFO: ************ Home page title test is passed ************
+2022-03-31 14:16:27,275: INFO: ************ Verifying Login test ************
+2022-03-31 14:16:54,863: INFO: ************  Login test is passed ************
+2022-03-31 14:22:54,628: INFO: ========== Lunching Chrome browser ===========
+2022-03-31 14:22:54,628: INFO: ========== Lunching Chrome browser ===========
+2022-03-31 14:22:54,628: INFO: ************ Test_001_Login ************
+2022-03-31 14:22:54,628: INFO: ************ Test_001_Login ************
+2022-03-31 14:22:54,628: INFO: ************ Verifying Home page title  ************
+2022-03-31 14:22:54,628: INFO: ************ Verifying Home page title  ************
+2022-03-31 14:23:04,619: INFO: ************ Home page title test is passed ************
+2022-03-31 14:23:04,619: INFO: ************ Home page title test is passed ************
+2022-03-31 14:23:07,970: INFO: ========== Lunching Chrome browser ===========
+2022-03-31 14:23:07,970: INFO: ========== Lunching Chrome browser ===========
+2022-03-31 14:23:07,970: INFO: ========== Lunching Chrome browser ===========
+2022-03-31 14:23:07,970: INFO: ************ Verifying Login test ************
+2022-03-31 14:23:07,970: INFO: ************ Verifying Login test ************
+2022-03-31 14:23:07,970: INFO: ************ Verifying Login test ************
+2022-03-31 14:23:37,595: INFO: ************  Login test is passed ************
+2022-03-31 14:23:37,595: INFO: ************  Login test is passed ************
+2022-03-31 14:23:37,595: INFO: ************  Login test is passed ************
+2022-03-31 14:25:40,776: INFO: ========== Lunching Firefox browser ===========
+2022-03-31 14:25:40,776: INFO: ========== Lunching Firefox browser ===========
+2022-03-31 14:25:40,776: INFO: ************ Test_001_Login ************
+2022-03-31 14:25:40,776: INFO: ************ Test_001_Login ************
+2022-03-31 14:25:40,776: INFO: ************ Verifying Home page title  ************
+2022-03-31 14:25:40,776: INFO: ************ Verifying Home page title  ************
+2022-03-31 14:25:48,540: INFO: ************ Home page title test is passed ************
+2022-03-31 14:25:48,540: INFO: ************ Home page title test is passed ************
+2022-03-31 14:25:57,551: INFO: ========== Lunching Firefox browser ===========
+2022-03-31 14:25:57,551: INFO: ========== Lunching Firefox browser ===========
+2022-03-31 14:25:57,551: INFO: ========== Lunching Firefox browser ===========
+2022-03-31 14:25:57,551: INFO: ************ Verifying Login test ************
+2022-03-31 14:25:57,551: INFO: ************ Verifying Login test ************
+2022-03-31 14:25:57,551: INFO: ************ Verifying Login test ************
+2022-03-31 14:26:30,759: INFO: ************  Login test is passed ************
+2022-03-31 14:26:30,759: INFO: ************  Login test is passed ************
+2022-03-31 14:26:30,759: INFO: ************  Login test is passed ************
+2022-03-31 15:01:57,364: INFO: ************ Test_001_Login ************
+2022-03-31 15:01:57,364: INFO: ************ Verifying Home page title  ************
+2022-03-31 15:01:58,228: INFO: ************ Verifying Login test ************
+2022-03-31 15:02:07,975: INFO: ************ Home page title test is passed ************
+2022-03-31 15:02:38,109: INFO: ************  Login test is passed ************
+2022-03-31 17:30:44,340: INFO: ************ Test_001_Login ************
+****
+2022-03-31 17:30:44,410: INFO: ************ Verifying Home page title  ************
+2022-03-31 17:30:53,195: INFO: ************ Home page title test is passed ************
+2022-03-31 17:30:58,062: INFO: ************  Login test is passed ************
+2022-03-31 17:37:09,829: INFO: ************ Test_001_Login ************
+2022-03-31 17:37:09,829: INFO: ************ Verifying Login test ************
+****
+2022-03-31 17:37:21,122: INFO: ************ Home page title test is passed ************
+2022-03-31 17:37:28,602: INFO: ************  Login test is passed ************
+2022-03-31 20:54:44,416: INFO: ========== Test_002_DDT_Login ===========
+2022-03-31 20:54:44,444: INFO: ************ Verifying Login DDT test ************
+2022-03-31 20:54:57,523: INFO: ************  Login DDT test is passed ************
+2022-03-31 20:54:59,234: INFO: ************  Login DDT test is passed... ************
+2022-03-31 20:54:59,523: INFO: ========  End of Login DDT test ==========
+2022-03-31 20:54:59,523: INFO: ========  Completed TC_LoginDDT_002  ==========
+2022-03-31 21:15:43,792: INFO: ========== Test_002_DDT_Login ===========
+2022-03-31 21:15:43,792: INFO: ************ Verifying Login DDT test ************
+2022-03-31 21:16:01,683: INFO: ************  Login DDT test is passed ************
+2022-03-31 21:16:04,024: INFO: ************  Login DDT test is passed... ************
+2022-03-31 21:16:04,349: INFO: ========  End of Login DDT test ==========
+2022-03-31 21:16:04,349: INFO: ========  Completed TC_LoginDDT_002  ==========
+2022-03-31 21:26:43,942: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-03-31 21:26:43,942: INFO: ************ Verifying Login DDT test ************
+2022-03-31 21:26:56,999: INFO: ************  Login DDT test is passed ************
+2022-03-31 21:27:04,680: INFO: ************  Login is passed ************
+2022-04-01 10:33:47,556: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-01 10:33:47,557: INFO: ************ Verifying Login DDT test ************
+2022-04-01 10:34:00,600: INFO: ************  Login DDT test is passed ************
+2022-04-01 10:42:23,853: INFO: ************ Verifying Login test ************
+2022-04-01 10:42:26,878: INFO: ************ Test_001_Login ************
+2022-04-01 10:42:26,879: INFO: ************ Verifying Home page title  ************
+2022-04-01 10:42:32,363: INFO: ************ Home page title test is passed ************
+2022-04-01 10:42:37,310: INFO: ************  Login test is passed ************
+2022-04-01 10:48:08,562: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-01 10:48:08,562: INFO: ************ Verifying Login DDT test ************
+2022-04-01 10:48:23,249: INFO: ************  Login DDT test is passed ************
+2022-04-05 17:28:48,189: INFO: ************ Test_001_Login ************
+2022-04-05 17:28:48,189: INFO: ************ Verifying Home page title  ************
+2022-04-05 17:28:51,327: INFO: ************ Verifying Login test ************
+2022-04-05 17:28:56,975: INFO: ************ Home page title test is passed ************
+2022-04-05 17:29:05,118: INFO: ************  Login test is passed ************
+2022-04-05 17:30:21,931: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-05 17:30:21,931: INFO: ************ Verifying Login DDT test ************
+2022-04-05 17:30:37,990: INFO: ************  Login DDT test is passed ************
+2022-04-05 17:30:45,959: INFO: ************  Login is passed ************
+2022-04-05 18:15:46,588: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-05 18:15:46,588: INFO: ************ Verifying Login DDT test ************
+2022-04-05 18:16:19,074: INFO: ************  Login DDT test is passed ************
+2022-04-05 18:16:26,813: INFO: ************  Login is passed ************
+2022-04-08 15:14:10,127: INFO: ************* Test_003_AddCustomer **********
+2022-04-08 15:28:25,508: INFO: ************ Verifying Login test ************
+2022-04-08 15:28:25,830: INFO: ************ Test_001_Login ************
+2022-04-08 15:28:25,830: INFO: ************ Verifying Home page title  ************
+2022-04-08 15:28:36,250: INFO: ************ Home page title test is passed ************
+2022-04-08 15:28:58,497: INFO: ************  Login test is passed ************
+2022-04-08 15:43:42,477: INFO: ************* Test_003_AddCustomer **********
+2022-04-08 15:49:53,128: INFO: ************* Test_003_AddCustomer **********
+2022-04-08 15:50:00,909: INFO: ************* Login succesful **********
+2022-04-08 15:50:00,909: INFO: ******* Starting Add Customer Test **********
+2022-04-08 18:15:56,081: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-08 18:15:56,150: INFO: ************ Verifying Login DDT test ************
+2022-04-08 18:16:12,480: INFO: ************  Login DDT test is passed ************
+2022-04-08 18:22:18,440: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-08 18:22:18,440: INFO: ************ Verifying Login DDT test ************
+2022-04-08 18:22:40,241: INFO: ************  Login DDT test is passed ************
+2022-04-08 18:25:04,155: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-08 18:25:04,156: INFO: ************ Verifying Login DDT test ************
+2022-04-08 18:27:23,789: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-08 18:27:23,789: INFO: ************ Verifying Login DDT test ************
+2022-04-08 18:27:36,738: INFO: ************  Login DDT test is passed ************
+2022-04-11 10:27:38,271: INFO: ************* Test_003_AddCustomer **********
+2022-04-11 10:27:46,559: INFO: ************* Login succesful **********
+2022-04-11 10:27:46,560: INFO: ******* Starting Add Customer Test **********
+2022-04-11 10:29:54,914: INFO: ************* Test_003_AddCustomer **********
+2022-04-11 10:30:04,004: INFO: ************* Login succesful **********
+2022-04-11 10:30:04,004: INFO: ******* Starting Add Customer Test **********
+2022-04-11 10:30:07,534: INFO: ************* Providing customer info **********
+2022-04-11 14:49:15,885: INFO: ************* Test_003_AddCustomer **********
+2022-04-11 14:49:26,525: INFO: ************* Login succesful **********
+2022-04-11 14:49:26,525: INFO: ******* Starting Add Customer Test **********
+2022-04-11 14:49:33,503: INFO: ************* Providing customer info **********
+2022-04-11 15:04:12,312: INFO: ************* Test_003_AddCustomer **********
+2022-04-11 15:04:52,820: INFO: ************* Login succesful **********
+2022-04-11 15:04:52,820: INFO: ******* Starting Add Customer Test **********
+2022-04-11 15:08:12,030: INFO: ************* Test_003_AddCustomer **********
+2022-04-11 15:08:36,295: INFO: ************* Login succesful **********
+2022-04-11 15:08:36,295: INFO: ******* Starting Add Customer Test **********
+2022-04-11 19:10:44,275: INFO: ************* Test_003_AddCustomer **********
+2022-04-11 19:15:20,764: INFO: ************* Test_003_AddCustomer **********
+2022-04-11 19:15:54,914: INFO: ************* Login succesful **********
+2022-04-11 19:15:54,914: INFO: ******* Starting Add Customer Test **********
+2022-04-11 19:15:59,463: INFO: ************* Providing customer info **********
+2022-04-12 09:32:31,241: INFO: ************* Test_003_AddCustomer **********
+2022-04-12 09:32:42,590: INFO: ************* Login succesful **********
+2022-04-12 09:32:42,590: INFO: ******* Starting Add Customer Test **********
+2022-04-12 09:35:48,469: INFO: ************* Test_003_AddCustomer **********
+2022-04-12 09:36:14,242: INFO: ************* Login succesful **********
+2022-04-12 09:36:14,242: INFO: ******* Starting Add Customer Test **********
+2022-04-12 09:36:39,541: INFO: ************* Providing customer info **********
+2022-04-12 09:45:44,095: INFO: ************* Test_003_AddCustomer **********
+2022-04-12 09:46:08,067: INFO: ************* Login succesful **********
+2022-04-12 09:46:08,067: INFO: ******* Starting Add Customer Test **********
+2022-04-12 09:46:23,813: INFO: ************* Providing customer info **********
+2022-04-12 09:51:10,438: INFO: ************* Test_003_AddCustomer **********
+2022-04-12 09:51:20,699: INFO: ************* Login succesful **********
+2022-04-12 09:51:20,699: INFO: ******* Starting Add Customer Test **********
+2022-04-12 09:51:25,226: INFO: ************* Providing customer info **********
+2022-04-18 10:48:39,727: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 10:48:49,175: INFO: ************* Login succesful **********
+2022-04-18 10:48:49,176: INFO: ******* Starting Add Customer Test **********
+2022-04-18 10:50:35,978: INFO: ************* Providing customer info **********
+2022-04-18 13:08:09,008: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 13:09:50,938: INFO: ************* Login succesful **********
+2022-04-18 13:09:50,939: INFO: ******* Starting Add Customer Test **********
+2022-04-18 13:11:15,830: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 13:11:24,977: INFO: ************* Login succesful **********
+2022-04-18 13:11:24,977: INFO: ******* Starting Add Customer Test **********
+2022-04-18 13:11:29,189: INFO: ************* Providing customer info **********
+2022-04-18 13:33:02,475: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 13:33:39,825: INFO: ************* Login succesful **********
+2022-04-18 13:33:39,825: INFO: ******* Starting Add Customer Test **********
+2022-04-18 13:33:48,495: INFO: ************* Providing customer info **********
+2022-04-18 14:24:14,788: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 14:24:23,827: INFO: ************* Login succesful **********
+2022-04-18 14:24:23,827: INFO: ******* Starting Add Customer Test **********
+2022-04-18 14:24:29,097: INFO: ************* Providing customer info **********
+2022-04-18 14:32:24,611: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 14:32:50,410: INFO: ************* Login succesful **********
+2022-04-18 14:32:50,410: INFO: ******* Starting Add Customer Test **********
+2022-04-18 14:32:57,317: INFO: ************* Providing customer info **********
+2022-04-18 15:08:31,403: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 15:08:59,339: INFO: ************* Login succesful **********
+2022-04-18 15:08:59,339: INFO: ******* Starting Add Customer Test **********
+2022-04-18 15:09:06,537: INFO: ************* Providing customer info **********
+2022-04-18 15:47:45,233: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 15:48:13,239: INFO: ************* Login succesful **********
+2022-04-18 15:48:13,239: INFO: ******* Starting Add Customer Test **********
+2022-04-18 15:48:26,536: INFO: ************* Providing customer info **********
+2022-04-18 15:50:11,539: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 15:50:25,589: INFO: ************* Login succesful **********
+2022-04-18 15:50:25,589: INFO: ******* Starting Add Customer Test **********
+2022-04-18 15:50:34,122: INFO: ************* Providing customer info **********
+2022-04-18 15:50:42,823: INFO: ************* Saving customer info **********
+2022-04-18 15:50:42,823: INFO: ********* Add customer validation started *****************
+2022-04-18 15:50:42,959: ERROR: ********* Add customer Test Failed ************
+2022-04-18 15:52:47,274: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 15:53:16,680: INFO: ************* Login succesful **********
+2022-04-18 15:53:16,680: INFO: ******* Starting Add Customer Test **********
+2022-04-18 15:53:22,979: INFO: ************* Providing customer info **********
+2022-04-18 15:53:33,422: INFO: ************* Saving customer info **********
+2022-04-18 15:53:33,422: INFO: ********* Add customer validation started *****************
+2022-04-18 15:53:33,590: ERROR: ********* Add customer Test Failed ************
+2022-04-18 16:00:49,036: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 16:01:00,352: INFO: ************* Login succesful **********
+2022-04-18 16:01:00,352: INFO: ******* Starting Add Customer Test **********
+2022-04-18 16:01:06,160: INFO: ************* Providing customer info **********
+2022-04-18 16:01:14,716: INFO: ************* Saving customer info **********
+2022-04-18 16:01:14,716: INFO: ********* Add customer validation started *****************
+2022-04-18 16:01:14,840: ERROR: ********* Add customer Test Failed ************
+2022-04-18 16:30:56,238: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 16:31:06,900: INFO: ************* Login succesful **********
+2022-04-18 16:31:06,900: INFO: ******* Starting Add Customer Test **********
+2022-04-18 16:54:42,641: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 16:57:13,115: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 16:57:57,183: INFO: ************* Login succesful **********
+2022-04-18 16:57:57,183: INFO: ******* Starting Add Customer Test **********
+2022-04-18 17:26:31,747: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 17:27:01,513: INFO: ************* Login succesful **********
+2022-04-18 17:27:01,513: INFO: ******* Starting Add Customer Test **********
+2022-04-18 17:27:09,458: INFO: ************* Providing customer info **********
+2022-04-18 17:27:19,163: INFO: ************* Saving customer info **********
+2022-04-18 17:27:19,163: INFO: ********* Add customer validation started *****************
+2022-04-18 17:27:20,903: ERROR: ********* Add customer Test Failed ************
+2022-04-18 17:29:57,645: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 17:30:13,736: INFO: ************* Login succesful **********
+2022-04-18 17:30:13,736: INFO: ******* Starting Add Customer Test **********
+2022-04-18 17:32:36,908: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 17:32:46,122: INFO: ************* Login succesful **********
+2022-04-18 17:32:46,122: INFO: ******* Starting Add Customer Test **********
+2022-04-18 17:36:45,887: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 17:36:55,248: INFO: ************* Login succesful **********
+2022-04-18 17:36:55,248: INFO: ******* Starting Add Customer Test **********
+2022-04-18 17:48:42,835: INFO: ************* Test_003_AddCustomer **********
+2022-04-18 17:48:57,558: INFO: ************* Login succesful **********
+2022-04-18 17:48:57,558: INFO: ******* Starting Add Customer Test **********
+2022-04-19 16:07:01,903: INFO: ************* Test_003_AddCustomer **********
+2022-04-19 16:07:12,190: INFO: ************* Login successful **********
+2022-04-19 16:07:12,190: INFO: ******* Starting Add Customer Test **********
+2022-04-19 16:38:22,298: INFO: ************* Test_003_AddCustomer **********
+2022-04-19 16:38:37,877: INFO: ************* Login successful **********
+2022-04-19 16:38:37,877: INFO: ******* Starting Add Customer Test **********
+2022-04-19 16:46:04,532: INFO: ************* Test_003_AddCustomer **********
+2022-04-19 16:46:23,560: INFO: ************* Login successful **********
+2022-04-19 16:46:23,560: INFO: ******* Starting Add Customer Test **********
+2022-04-19 17:06:34,666: INFO: ************* Test_003_AddCustomer **********
+2022-04-19 17:06:43,447: INFO: ************* Login successful **********
+2022-04-19 17:06:43,447: INFO: ******* Starting Add Customer Test **********
+2022-04-19 17:15:31,880: INFO: ************ Test_001_Login ************
+2022-04-19 17:15:31,880: INFO: ************ Verifying Home page title  ************
+2022-04-19 17:15:35,996: INFO: ************ Home page title test is passed ************
+2022-04-19 17:15:40,786: INFO: ************ Verifying Login test ************
+2022-04-19 17:16:04,979: INFO: ************  Login test is passed ************
+2022-04-19 17:39:18,895: INFO: ************* Test_003_AddCustomer **********
+2022-04-19 17:39:44,736: INFO: ************* Login successful **********
+2022-04-19 17:39:44,736: INFO: ******* Starting Add Customer Test **********
+2022-04-20 11:58:28,027: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 11:58:53,772: INFO: ************* Login successful **********
+2022-04-20 11:58:53,772: INFO: ******* Starting Add Customer Test **********
+2022-04-20 11:58:59,785: INFO: ************* Providing customer info **********
+2022-04-20 11:59:12,798: INFO: ************* Saving customer info **********
+2022-04-20 11:59:12,798: INFO: ********* Add customer validation started *****************
+2022-04-20 11:59:12,903: ERROR: ********* Add customer Test Failed ************
+2022-04-20 12:07:05,098: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 12:07:13,721: INFO: ************* Login successful **********
+2022-04-20 12:07:13,721: INFO: ******* Starting Add Customer Test **********
+2022-04-20 12:41:11,959: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 12:41:35,328: INFO: ************* Login successful **********
+2022-04-20 12:41:35,328: INFO: ******* Starting Add Customer Test **********
+2022-04-20 12:47:08,947: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 12:52:30,004: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 12:52:37,589: INFO: ************* Login successful **********
+2022-04-20 12:52:37,590: INFO: ******* Starting Add Customer Test **********
+2022-04-20 12:56:12,160: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 12:56:22,093: INFO: ************* Login successful **********
+2022-04-20 12:56:22,094: INFO: ******* Starting Add Customer Test **********
+2022-04-20 12:59:06,966: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 12:59:30,332: INFO: ************* Login successful **********
+2022-04-20 12:59:30,332: INFO: ******* Starting Add Customer Test **********
+2022-04-20 13:01:17,804: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 13:01:39,387: INFO: ************* Login successful **********
+2022-04-20 13:01:39,387: INFO: ******* Starting Add Customer Test **********
+2022-04-20 13:01:56,158: INFO: ************* Providing customer info **********
+2022-04-20 13:02:06,939: INFO: ************* Saving customer info **********
+2022-04-20 13:02:06,939: INFO: ********* Add customer validation started *****************
+2022-04-20 13:02:11,711: ERROR: ********* Add customer Test Failed ************
+2022-04-20 18:06:59,331: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 18:07:25,968: INFO: ************* Login successful **********
+2022-04-20 18:07:25,968: INFO: ******* Starting Add Customer Test **********
+2022-04-20 18:07:51,071: INFO: ************* Providing customer info **********
+2022-04-20 18:08:00,035: INFO: ************* Saving customer info **********
+2022-04-20 18:08:00,035: INFO: ********* Add customer validation started *****************
+2022-04-20 18:08:00,159: ERROR: ********* Add customer Test Failed ************
+2022-04-20 18:14:57,701: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 18:15:08,406: INFO: ************* Login successful **********
+2022-04-20 18:15:08,406: INFO: ******* Starting Add Customer Test **********
+2022-04-20 18:15:32,611: INFO: ************* Providing customer info **********
+2022-04-20 18:15:57,993: INFO: ************* Saving customer info **********
+2022-04-20 18:15:57,993: INFO: ********* Add customer validation started *****************
+2022-04-20 19:02:42,917: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 19:26:09,499: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 19:26:53,214: INFO: ************* Login successful **********
+2022-04-20 19:26:53,214: INFO: ******* Starting Add Customer Test **********
+2022-04-20 19:34:09,454: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 19:34:24,486: INFO: ************* Login successful **********
+2022-04-20 19:34:24,486: INFO: ******* Starting Add Customer Test **********
+2022-04-20 19:34:42,297: INFO: ************* Providing customer info **********
+2022-04-20 19:38:10,809: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 19:38:33,473: INFO: ************* Login successful **********
+2022-04-20 19:38:33,473: INFO: ******* Starting Add Customer Test **********
+2022-04-20 19:38:53,763: INFO: ************* Providing customer info **********
+2022-04-20 19:41:04,822: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 19:41:16,480: INFO: ************* Login successful **********
+2022-04-20 19:41:16,480: INFO: ******* Starting Add Customer Test **********
+2022-04-20 19:41:31,818: INFO: ************* Providing customer info **********
+2022-04-20 19:43:17,262: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 19:43:45,848: INFO: ************* Login successful **********
+2022-04-20 19:43:45,848: INFO: ******* Starting Add Customer Test **********
+2022-04-20 19:46:58,651: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 19:47:19,772: INFO: ************* Login successful **********
+2022-04-20 19:47:19,772: INFO: ******* Starting Add Customer Test **********
+2022-04-20 19:47:44,028: INFO: ************* Providing customer info **********
+2022-04-20 19:47:53,360: INFO: ************* Saving customer info **********
+2022-04-20 19:47:53,368: INFO: ********* Add customer validation started *****************
+2022-04-20 19:58:35,134: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 19:58:53,019: INFO: ************* Login successful **********
+2022-04-20 19:58:53,019: INFO: ******* Starting Add Customer Test **********
+2022-04-20 19:59:51,948: INFO: ************* Providing customer info **********
+2022-04-20 20:00:00,487: INFO: ************* Saving customer info **********
+2022-04-20 20:00:00,487: INFO: ********* Add customer validation started *****************
+2022-04-20 20:07:01,261: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 20:07:37,199: INFO: ************* Login successful **********
+2022-04-20 20:07:37,199: INFO: ******* Starting Add Customer Test **********
+2022-04-20 20:13:18,210: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 20:14:04,223: INFO: ************* Login successful **********
+2022-04-20 20:14:04,231: INFO: ******* Starting Add Customer Test **********
+2022-04-20 20:14:50,154: INFO: ************* Providing customer info **********
+2022-04-20 20:15:01,735: INFO: ************* Saving customer info **********
+2022-04-20 20:15:01,735: INFO: ********* Add customer validation started *****************
+2022-04-20 20:15:01,855: INFO: ********* TEST MSG ×
+The new customer has been added successfully. *********
+2022-04-20 20:15:01,967: ERROR: ********* Add customer Test Failed ************
+2022-04-20 20:20:35,013: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 20:21:09,885: INFO: ************* Login successful **********
+2022-04-20 20:21:09,885: INFO: ******* Starting Add Customer Test **********
+2022-04-20 20:24:49,024: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 20:25:23,571: INFO: ************* Login successful **********
+2022-04-20 20:25:23,571: INFO: ******* Starting Add Customer Test **********
+2022-04-20 20:26:05,122: INFO: ************* Providing customer info **********
+2022-04-20 20:26:15,748: INFO: ************* Saving customer info **********
+2022-04-20 20:26:15,748: INFO: ********* Add customer validation started *****************
+2022-04-20 20:26:15,885: ERROR: ********* Add customer Test Failed ************
+2022-04-20 20:30:28,589: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 20:30:44,030: INFO: ************* Login successful **********
+2022-04-20 20:30:44,030: INFO: ******* Starting Add Customer Test **********
+2022-04-20 20:31:20,317: INFO: ************* Providing customer info **********
+2022-04-20 20:31:28,906: INFO: ************* Saving customer info **********
+2022-04-20 20:31:28,906: INFO: ********* Add customer validation started *****************
+2022-04-20 20:31:28,953: INFO: ********* The new customer has been added successfully. ==CHECK== ×
+The new customer has been added successfully. *********
+2022-04-20 20:31:29,182: ERROR: ********* Add customer Test Failed ************
+2022-04-20 20:34:23,192: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 20:35:15,016: INFO: ************* Login successful **********
+2022-04-20 20:35:15,016: INFO: ******* Starting Add Customer Test **********
+2022-04-20 20:36:01,368: INFO: ************* Providing customer info **********
+2022-04-20 20:36:10,021: INFO: ************* Saving customer info **********
+2022-04-20 20:36:10,021: INFO: ********* Add customer validation started *****************
+2022-04-20 20:40:42,253: INFO: ************* Test_003_AddCustomer **********
+2022-04-20 20:41:22,162: INFO: ************* Login successful **********
+2022-04-20 20:41:22,162: INFO: ******* Starting Add Customer Test **********
+2022-04-20 20:41:56,479: INFO: ************* Providing customer info **********
+2022-04-20 20:42:10,712: INFO: ************* Saving customer info **********
+2022-04-20 20:42:10,712: INFO: ********* Add customer validation started *****************
+2022-04-20 20:42:10,752: INFO: ********* Add customer Test Passed *********
+2022-04-20 20:42:11,022: INFO: ******* Ending Add customer test **********
+2022-04-22 12:35:18,997: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-22 12:35:19,095: INFO: ************ Verifying Login DDT test ************
+2022-04-22 12:35:39,895: INFO: ************  Login DDT test is passed ************
+2022-04-22 12:42:07,182: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-22 12:42:07,248: INFO: ************ Verifying Login DDT test ************
+2022-04-22 12:43:12,379: INFO: ************  Login DDT test is passed ************
+2022-04-22 13:03:46,005: INFO: ************ Test_001_Login ************
+2022-04-22 13:03:46,005: INFO: ************ Verifying Home page title  ************
+2022-04-22 13:03:50,254: INFO: ************ Home page title test is passed ************
+2022-04-22 13:03:53,953: INFO: ************ Verifying Login test ************
+2022-04-22 13:04:20,749: INFO: ************  Login test is passed ************
+2022-04-22 13:07:46,886: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-22 13:07:46,886: INFO: ************ Verifying Login DDT test ************
+2022-04-22 14:12:52,982: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-22 14:12:52,982: INFO: ************ Verifying Login DDT test ************
+2022-04-22 14:13:25,173: INFO: ************  Login DDT test is passed ************
+2022-04-22 14:15:42,105: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-22 14:15:42,105: INFO: ************ Verifying Login DDT test ************
+2022-04-22 14:15:57,575: INFO: ************  Login DDT test is passed ************
+2022-04-22 14:18:33,337: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-22 14:18:33,337: INFO: ************ Verifying Login DDT test ************
+2022-04-22 14:18:50,782: INFO: ************  Login DDT test is passed ************
+2022-04-22 14:25:43,846: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-22 14:25:43,886: INFO: ************ Verifying Login DDT test ************
+2022-04-22 14:26:24,301: INFO: ************  Login DDT test is passed ************
+2022-04-22 14:55:31,879: INFO: ************ Test_001_Login ************
+2022-04-22 14:55:31,879: INFO: ************ Verifying Home page title  ************
+2022-04-22 14:55:36,218: INFO: ************ Home page title test is passed ************
+2022-04-22 14:55:39,944: INFO: ************ Verifying Login test ************
+2022-04-22 14:55:52,300: INFO: ************  Login test is passed ************
+2022-04-22 14:56:40,668: INFO: ************* SearchCustomerByName_005 **********
+2022-04-22 15:00:16,400: INFO: ************* SearchCustomerByName_005 **********
+2022-04-26 11:06:56,575: INFO: ************* Test_003_AddCustomer **********
+2022-04-26 11:07:05,705: INFO: ************* Login successful **********
+2022-04-26 11:07:05,705: INFO: ******* Starting Add Customer Test **********
+2022-04-26 12:29:35,629: INFO: ************* Test_003_AddCustomer **********
+2022-04-26 12:30:00,494: INFO: ************* Login successful **********
+2022-04-26 12:30:00,494: INFO: ******* Starting Add Customer Test **********
+2022-04-27 12:40:15,784: INFO: ************* Test_003_AddCustomer **********
+2022-04-27 12:40:39,118: INFO: ************* Login successful **********
+2022-04-27 12:40:39,118: INFO: ******* Starting Add Customer Test **********
+2022-04-27 12:41:01,662: INFO: ************* Providing customer info **********
+2022-04-27 12:41:11,229: INFO: ************* Saving customer info **********
+2022-04-27 12:41:11,229: INFO: ********* Add customer validation started *****************
+2022-04-27 12:41:11,277: INFO: ********* Add customer Test Passed *********
+2022-04-27 12:41:11,380: INFO: ******* Ending Add customer test **********
+2022-04-27 12:56:44,568: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 12:57:09,244: INFO: ************* Login succesful **********
+2022-04-27 12:57:09,244: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 13:49:26,582: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 13:49:35,334: INFO: ************* Login successful **********
+2022-04-27 13:49:35,334: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 13:55:31,378: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 13:55:55,732: INFO: ************* Login successful **********
+2022-04-27 13:55:55,732: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 13:56:10,072: INFO: ************* searching customer by Name **********
+2022-04-27 14:04:48,016: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 14:05:14,485: INFO: ************* Login successful **********
+2022-04-27 14:05:14,485: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 14:05:30,324: INFO: ************* searching customer by Name **********
+2022-04-27 14:11:28,206: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 14:11:37,380: INFO: ************* Login successful **********
+2022-04-27 14:11:37,380: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 14:21:13,936: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-27 14:21:24,164: INFO: ************* Login successful **********
+2022-04-27 14:21:24,164: INFO: ******* Starting Search Customer By Email **********
+2022-04-27 14:24:44,229: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-27 14:25:12,972: INFO: ************* Login successful **********
+2022-04-27 14:25:12,972: INFO: ******* Starting Search Customer By Email **********
+2022-04-27 14:26:32,442: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 14:26:56,529: INFO: ************* Login successful **********
+2022-04-27 14:26:56,529: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 14:27:11,505: INFO: ************* searching customer by Name **********
+2022-04-27 14:55:25,622: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 14:55:34,378: INFO: ************* Login successful **********
+2022-04-27 14:55:34,378: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 14:57:09,035: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-27 14:57:31,280: INFO: ************* Login successful **********
+2022-04-27 14:57:31,280: INFO: ******* Starting Search Customer By Email **********
+2022-04-27 14:57:45,455: INFO: ************* searching customer by emailID **********
+2022-04-27 14:57:53,948: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-04-27 14:58:23,158: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 14:58:31,539: INFO: ************* Login successful **********
+2022-04-27 14:58:31,539: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 15:00:27,884: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 15:00:52,505: INFO: ************* Login successful **********
+2022-04-27 15:00:52,505: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 15:01:10,057: INFO: ************* searching customer by Name **********
+2022-04-27 15:01:18,628: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-04-27 15:04:34,462: INFO: ************* Test_003_AddCustomer **********
+2022-04-27 15:04:34,462: INFO: ************* Test_003_AddCustomer **********
+2022-04-27 15:04:34,462: INFO: ************* Test_003_AddCustomer **********
+2022-04-27 15:04:34,462: INFO: ************* Test_003_AddCustomer **********
+2022-04-27 15:04:34,462: INFO: ************* Test_003_AddCustomer **********
+2022-04-27 15:04:43,411: INFO: ************* Login successful **********
+2022-04-27 15:04:43,411: INFO: ************* Login successful **********
+2022-04-27 15:04:43,411: INFO: ************* Login successful **********
+2022-04-27 15:04:43,411: INFO: ************* Login successful **********
+2022-04-27 15:04:43,411: INFO: ************* Login successful **********
+2022-04-27 15:04:43,411: INFO: ******* Starting Add Customer Test **********
+2022-04-27 15:04:43,411: INFO: ******* Starting Add Customer Test **********
+2022-04-27 15:04:43,411: INFO: ******* Starting Add Customer Test **********
+2022-04-27 15:04:43,411: INFO: ******* Starting Add Customer Test **********
+2022-04-27 15:04:43,411: INFO: ******* Starting Add Customer Test **********
+2022-04-27 15:05:01,635: INFO: ************ Test_001_Login ************
+2022-04-27 15:05:01,635: INFO: ************ Test_001_Login ************
+2022-04-27 15:05:01,635: INFO: ************ Test_001_Login ************
+2022-04-27 15:05:01,635: INFO: ************ Test_001_Login ************
+2022-04-27 15:05:01,635: INFO: ************ Test_001_Login ************
+2022-04-27 15:05:01,635: INFO: ************ Verifying Home page title  ************
+2022-04-27 15:05:01,635: INFO: ************ Verifying Home page title  ************
+2022-04-27 15:05:01,635: INFO: ************ Verifying Home page title  ************
+2022-04-27 15:05:01,635: INFO: ************ Verifying Home page title  ************
+2022-04-27 15:05:01,635: INFO: ************ Verifying Home page title  ************
+2022-04-27 15:06:49,469: ERROR: ************ Home page title test is failed ************
+2022-04-27 15:06:49,469: ERROR: ************ Home page title test is failed ************
+2022-04-27 15:06:49,469: ERROR: ************ Home page title test is failed ************
+2022-04-27 15:06:49,469: ERROR: ************ Home page title test is failed ************
+2022-04-27 15:06:49,469: ERROR: ************ Home page title test is failed ************
+2022-04-27 15:06:56,773: INFO: ************ Verifying Login test ************
+2022-04-27 15:06:56,773: INFO: ************ Verifying Login test ************
+2022-04-27 15:06:56,773: INFO: ************ Verifying Login test ************
+2022-04-27 15:06:56,773: INFO: ************ Verifying Login test ************
+2022-04-27 15:06:56,773: INFO: ************ Verifying Login test ************
+2022-04-27 15:07:03,927: INFO: ************  Login test is passed ************
+2022-04-27 15:07:03,927: INFO: ************  Login test is passed ************
+2022-04-27 15:07:03,927: INFO: ************  Login test is passed ************
+2022-04-27 15:07:03,927: INFO: ************  Login test is passed ************
+2022-04-27 15:07:03,927: INFO: ************  Login test is passed ************
+2022-04-27 15:07:08,832: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 15:07:08,832: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 15:07:08,832: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 15:07:08,832: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 15:07:08,832: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 15:07:08,832: INFO: ************ Verifying Login DDT test ************
+2022-04-27 15:07:08,832: INFO: ************ Verifying Login DDT test ************
+2022-04-27 15:07:08,832: INFO: ************ Verifying Login DDT test ************
+2022-04-27 15:07:08,832: INFO: ************ Verifying Login DDT test ************
+2022-04-27 15:07:08,832: INFO: ************ Verifying Login DDT test ************
+2022-04-27 15:07:29,146: INFO: ************  Login DDT test is passed ************
+2022-04-27 15:07:29,146: INFO: ************  Login DDT test is passed ************
+2022-04-27 15:07:29,146: INFO: ************  Login DDT test is passed ************
+2022-04-27 15:07:29,146: INFO: ************  Login DDT test is passed ************
+2022-04-27 15:07:29,146: INFO: ************  Login DDT test is passed ************
+2022-04-27 15:07:35,079: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-27 15:07:35,079: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-27 15:07:35,079: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-27 15:07:35,079: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-27 15:07:35,079: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-27 15:07:42,941: INFO: ************* Login successful **********
+2022-04-27 15:07:42,941: INFO: ************* Login successful **********
+2022-04-27 15:07:42,941: INFO: ************* Login successful **********
+2022-04-27 15:07:42,941: INFO: ************* Login successful **********
+2022-04-27 15:07:42,941: INFO: ************* Login successful **********
+2022-04-27 15:07:42,941: INFO: ******* Starting Search Customer By Email **********
+2022-04-27 15:07:42,941: INFO: ******* Starting Search Customer By Email **********
+2022-04-27 15:07:42,941: INFO: ******* Starting Search Customer By Email **********
+2022-04-27 15:07:42,941: INFO: ******* Starting Search Customer By Email **********
+2022-04-27 15:07:42,941: INFO: ******* Starting Search Customer By Email **********
+2022-04-27 15:08:07,576: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 15:08:07,576: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 15:08:07,576: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 15:08:07,576: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 15:08:07,576: INFO: ************* SearchCustomerByName_005 **********
+2022-04-27 15:08:21,078: INFO: ************* Login successful **********
+2022-04-27 15:08:21,078: INFO: ************* Login successful **********
+2022-04-27 15:08:21,078: INFO: ************* Login successful **********
+2022-04-27 15:08:21,078: INFO: ************* Login successful **********
+2022-04-27 15:08:21,078: INFO: ************* Login successful **********
+2022-04-27 15:08:21,078: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 15:08:21,078: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 15:08:21,078: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 15:08:21,078: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 15:08:21,078: INFO: ******* Starting Search Customer By Name **********
+2022-04-27 15:35:17,087: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 15:35:17,131: INFO: ************ Verifying Login DDT test ************
+2022-04-27 15:35:30,793: INFO: ************  Login DDT test is passed ************
+2022-04-27 16:05:24,194: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 16:05:24,235: INFO: ************ Verifying Login DDT test ************
+2022-04-27 16:05:38,460: INFO: ************  Login DDT test is passed ************
+2022-04-27 16:15:28,786: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 16:15:28,786: INFO: ************ Verifying Login DDT test ************
+2022-04-27 16:22:33,636: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 16:22:33,636: INFO: ************ Verifying Login DDT test ************
+2022-04-27 16:28:03,352: INFO: ************ Test_001_Login ************
+2022-04-27 16:28:03,352: INFO: ************ Verifying Home page title  ************
+2022-04-27 16:28:07,104: INFO: ************ Home page title test is passed ************
+2022-04-27 16:28:11,022: INFO: ************ Verifying Login test ************
+2022-04-27 16:28:35,157: INFO: ************  Login test is passed ************
+2022-04-27 16:28:51,623: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 16:28:51,623: INFO: ************ Verifying Login DDT test ************
+2022-04-27 16:30:39,071: INFO: ************  Login is failed ************
+2022-04-27 17:01:01,697: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 17:01:01,697: INFO: ************ Verifying Login DDT test ************
+2022-04-27 17:01:29,319: INFO: ************  Login DDT test is passed ************
+2022-04-27 17:01:40,732: INFO: ************  Login is passed ************
+2022-04-27 17:04:58,400: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 17:04:58,400: INFO: ************ Verifying Login DDT test ************
+2022-04-27 17:05:11,408: INFO: ************  Login DDT test is passed ************
+2022-04-27 17:13:32,357: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 17:13:32,357: INFO: ************ Verifying Login DDT test ************
+2022-04-27 17:13:46,484: INFO: ************  Login DDT test is passed ************
+2022-04-27 17:13:58,036: INFO: ************  Login is passed ************
+2022-04-27 17:16:38,934: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 17:16:38,934: INFO: ************ Verifying Login DDT test ************
+2022-04-27 17:20:33,262: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 17:20:33,279: INFO: ************ Verifying Login DDT test ************
+2022-04-27 17:21:03,084: INFO: ************  Login DDT test is passed ************
+2022-04-27 18:41:31,366: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 18:41:31,366: INFO: ************ Verifying Login DDT test ************
+2022-04-27 18:41:46,544: INFO: ************  Login DDT test is passed ************
+2022-04-27 18:41:59,803: INFO: ************  Login is passed ************
+2022-04-27 22:15:18,069: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-27 22:15:18,222: INFO: ************ Verifying Login DDT test ************
+2022-04-27 22:15:51,222: INFO: ************  Login DDT test is passed ************
+2022-04-28 14:11:25,263: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-28 14:11:25,263: INFO: ************ Verifying Login DDT test ************
+2022-04-28 14:11:56,455: INFO: ************  Login DDT test is passed ************
+2022-04-28 14:12:09,910: INFO: ************  Login is passed ************
+2022-04-29 10:04:59,734: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:04:59,734: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:04:59,734: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:04:59,734: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:04:59,734: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:05:10,472: INFO: ************* Login successful **********
+2022-04-29 10:05:10,472: INFO: ************* Login successful **********
+2022-04-29 10:05:10,472: INFO: ************* Login successful **********
+2022-04-29 10:05:10,472: INFO: ************* Login successful **********
+2022-04-29 10:05:10,472: INFO: ************* Login successful **********
+2022-04-29 10:05:10,472: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:05:10,472: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:05:10,472: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:05:10,472: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:05:10,472: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:05:28,932: INFO: ************ Verifying Login test ************
+2022-04-29 10:05:28,932: INFO: ************ Verifying Login test ************
+2022-04-29 10:05:28,932: INFO: ************ Verifying Login test ************
+2022-04-29 10:05:28,932: INFO: ************ Verifying Login test ************
+2022-04-29 10:05:28,932: INFO: ************ Verifying Login test ************
+2022-04-29 10:05:52,780: INFO: ************  Login test is passed ************
+2022-04-29 10:05:52,780: INFO: ************  Login test is passed ************
+2022-04-29 10:05:52,780: INFO: ************  Login test is passed ************
+2022-04-29 10:05:52,780: INFO: ************  Login test is passed ************
+2022-04-29 10:05:52,780: INFO: ************  Login test is passed ************
+2022-04-29 10:14:34,084: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:14:34,084: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:14:34,084: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:14:34,084: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:14:34,084: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 10:15:00,428: INFO: ************* Login successful **********
+2022-04-29 10:15:00,428: INFO: ************* Login successful **********
+2022-04-29 10:15:00,428: INFO: ************* Login successful **********
+2022-04-29 10:15:00,428: INFO: ************* Login successful **********
+2022-04-29 10:15:00,428: INFO: ************* Login successful **********
+2022-04-29 10:15:00,436: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:15:00,436: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:15:00,436: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:15:00,436: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:15:00,436: INFO: ******* Starting Add Customer Test **********
+2022-04-29 10:15:23,458: INFO: ************* Providing customer info **********
+2022-04-29 10:15:23,458: INFO: ************* Providing customer info **********
+2022-04-29 10:15:23,458: INFO: ************* Providing customer info **********
+2022-04-29 10:15:23,458: INFO: ************* Providing customer info **********
+2022-04-29 10:15:23,458: INFO: ************* Providing customer info **********
+2022-04-29 10:15:32,681: INFO: ************* Saving customer info **********
+2022-04-29 10:15:32,681: INFO: ************* Saving customer info **********
+2022-04-29 10:15:32,681: INFO: ************* Saving customer info **********
+2022-04-29 10:15:32,681: INFO: ************* Saving customer info **********
+2022-04-29 10:15:32,681: INFO: ************* Saving customer info **********
+2022-04-29 10:15:32,681: INFO: ********* Add customer validation started *****************
+2022-04-29 10:15:32,681: INFO: ********* Add customer validation started *****************
+2022-04-29 10:15:32,681: INFO: ********* Add customer validation started *****************
+2022-04-29 10:15:32,681: INFO: ********* Add customer validation started *****************
+2022-04-29 10:15:32,681: INFO: ********* Add customer validation started *****************
+2022-04-29 10:15:32,706: INFO: ********* Add customer Test Passed *********
+2022-04-29 10:15:32,706: INFO: ********* Add customer Test Passed *********
+2022-04-29 10:15:32,706: INFO: ********* Add customer Test Passed *********
+2022-04-29 10:15:32,706: INFO: ********* Add customer Test Passed *********
+2022-04-29 10:15:32,706: INFO: ********* Add customer Test Passed *********
+2022-04-29 10:15:32,883: INFO: ******* Ending Add customer test **********
+2022-04-29 10:15:32,883: INFO: ******* Ending Add customer test **********
+2022-04-29 10:15:32,883: INFO: ******* Ending Add customer test **********
+2022-04-29 10:15:32,883: INFO: ******* Ending Add customer test **********
+2022-04-29 10:15:32,883: INFO: ******* Ending Add customer test **********
+2022-04-29 10:15:37,779: INFO: ************ Verifying Login test ************
+2022-04-29 10:15:37,779: INFO: ************ Verifying Login test ************
+2022-04-29 10:15:37,779: INFO: ************ Verifying Login test ************
+2022-04-29 10:15:37,779: INFO: ************ Verifying Login test ************
+2022-04-29 10:15:37,779: INFO: ************ Verifying Login test ************
+2022-04-29 10:16:01,362: INFO: ************  Login test is passed ************
+2022-04-29 10:16:01,362: INFO: ************  Login test is passed ************
+2022-04-29 10:16:01,362: INFO: ************  Login test is passed ************
+2022-04-29 10:16:01,362: INFO: ************  Login test is passed ************
+2022-04-29 10:16:01,362: INFO: ************  Login test is passed ************
+2022-04-29 11:17:22,338: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 11:17:22,338: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 11:17:22,338: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 11:17:22,338: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 11:17:22,338: INFO: ************* Test_003_AddCustomer **********
+2022-04-29 11:19:20,753: INFO: ************* Login successful **********
+2022-04-29 11:19:20,753: INFO: ************* Login successful **********
+2022-04-29 11:19:20,753: INFO: ************* Login successful **********
+2022-04-29 11:19:20,753: INFO: ************* Login successful **********
+2022-04-29 11:19:20,753: INFO: ************* Login successful **********
+2022-04-29 11:19:20,753: INFO: ******* Starting Add Customer Test **********
+2022-04-29 11:19:20,753: INFO: ******* Starting Add Customer Test **********
+2022-04-29 11:19:20,753: INFO: ******* Starting Add Customer Test **********
+2022-04-29 11:19:20,753: INFO: ******* Starting Add Customer Test **********
+2022-04-29 11:19:20,753: INFO: ******* Starting Add Customer Test **********
+2022-04-29 11:20:13,276: INFO: ************ Test_001_Login ************
+2022-04-29 11:20:13,276: INFO: ************ Test_001_Login ************
+2022-04-29 11:20:13,276: INFO: ************ Test_001_Login ************
+2022-04-29 11:20:13,276: INFO: ************ Test_001_Login ************
+2022-04-29 11:20:13,276: INFO: ************ Test_001_Login ************
+2022-04-29 11:20:13,276: INFO: ************ Verifying Home page title  ************
+2022-04-29 11:20:13,276: INFO: ************ Verifying Home page title  ************
+2022-04-29 11:20:13,276: INFO: ************ Verifying Home page title  ************
+2022-04-29 11:20:13,276: INFO: ************ Verifying Home page title  ************
+2022-04-29 11:20:13,276: INFO: ************ Verifying Home page title  ************
+2022-04-29 11:20:16,848: INFO: ************ Home page title test is passed ************
+2022-04-29 11:20:16,848: INFO: ************ Home page title test is passed ************
+2022-04-29 11:20:16,848: INFO: ************ Home page title test is passed ************
+2022-04-29 11:20:16,848: INFO: ************ Home page title test is passed ************
+2022-04-29 11:20:16,848: INFO: ************ Home page title test is passed ************
+2022-04-29 11:20:21,602: INFO: ************ Verifying Login test ************
+2022-04-29 11:20:21,602: INFO: ************ Verifying Login test ************
+2022-04-29 11:20:21,602: INFO: ************ Verifying Login test ************
+2022-04-29 11:20:21,602: INFO: ************ Verifying Login test ************
+2022-04-29 11:20:21,602: INFO: ************ Verifying Login test ************
+2022-04-29 11:20:31,547: INFO: ************  Login test is passed ************
+2022-04-29 11:20:31,547: INFO: ************  Login test is passed ************
+2022-04-29 11:20:31,547: INFO: ************  Login test is passed ************
+2022-04-29 11:20:31,547: INFO: ************  Login test is passed ************
+2022-04-29 11:20:31,547: INFO: ************  Login test is passed ************
+2022-04-29 11:20:35,413: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 11:20:35,413: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 11:20:35,413: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 11:20:35,413: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 11:20:35,413: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 11:20:35,413: INFO: ************ Verifying Login DDT test ************
+2022-04-29 11:20:35,413: INFO: ************ Verifying Login DDT test ************
+2022-04-29 11:20:35,413: INFO: ************ Verifying Login DDT test ************
+2022-04-29 11:20:35,413: INFO: ************ Verifying Login DDT test ************
+2022-04-29 11:20:35,413: INFO: ************ Verifying Login DDT test ************
+2022-04-29 11:20:48,420: INFO: ************  Login DDT test is passed ************
+2022-04-29 11:20:48,420: INFO: ************  Login DDT test is passed ************
+2022-04-29 11:20:48,420: INFO: ************  Login DDT test is passed ************
+2022-04-29 11:20:48,420: INFO: ************  Login DDT test is passed ************
+2022-04-29 11:20:48,420: INFO: ************  Login DDT test is passed ************
+2022-04-29 11:21:01,703: INFO: ************  Login is passed ************
+2022-04-29 11:21:01,703: INFO: ************  Login is passed ************
+2022-04-29 11:21:01,703: INFO: ************  Login is passed ************
+2022-04-29 11:21:01,703: INFO: ************  Login is passed ************
+2022-04-29 11:21:01,703: INFO: ************  Login is passed ************
+2022-04-29 11:21:16,996: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-29 11:21:16,996: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-29 11:21:16,996: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-29 11:21:16,996: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-29 11:21:16,996: INFO: ************* SearchCustomerByEmail_004 **********
+2022-04-29 11:21:33,764: INFO: ************* Login successful **********
+2022-04-29 11:21:33,764: INFO: ************* Login successful **********
+2022-04-29 11:21:33,764: INFO: ************* Login successful **********
+2022-04-29 11:21:33,764: INFO: ************* Login successful **********
+2022-04-29 11:21:33,764: INFO: ************* Login successful **********
+2022-04-29 11:21:33,764: INFO: ******* Starting Search Customer By Email **********
+2022-04-29 11:21:33,764: INFO: ******* Starting Search Customer By Email **********
+2022-04-29 11:21:33,764: INFO: ******* Starting Search Customer By Email **********
+2022-04-29 11:21:33,764: INFO: ******* Starting Search Customer By Email **********
+2022-04-29 11:21:33,764: INFO: ******* Starting Search Customer By Email **********
+2022-04-29 11:21:48,921: INFO: ************* searching customer by emailID **********
+2022-04-29 11:21:48,921: INFO: ************* searching customer by emailID **********
+2022-04-29 11:21:48,921: INFO: ************* searching customer by emailID **********
+2022-04-29 11:21:48,921: INFO: ************* searching customer by emailID **********
+2022-04-29 11:21:48,921: INFO: ************* searching customer by emailID **********
+2022-04-29 11:21:57,717: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-04-29 11:21:57,717: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-04-29 11:21:57,717: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-04-29 11:21:57,717: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-04-29 11:21:57,717: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-04-29 11:22:05,901: INFO: ************* SearchCustomerByName_005 **********
+2022-04-29 11:22:05,901: INFO: ************* SearchCustomerByName_005 **********
+2022-04-29 11:22:05,901: INFO: ************* SearchCustomerByName_005 **********
+2022-04-29 11:22:05,901: INFO: ************* SearchCustomerByName_005 **********
+2022-04-29 11:22:05,901: INFO: ************* SearchCustomerByName_005 **********
+2022-04-29 11:22:32,052: INFO: ************* Login successful **********
+2022-04-29 11:22:32,052: INFO: ************* Login successful **********
+2022-04-29 11:22:32,052: INFO: ************* Login successful **********
+2022-04-29 11:22:32,052: INFO: ************* Login successful **********
+2022-04-29 11:22:32,052: INFO: ************* Login successful **********
+2022-04-29 11:22:32,082: INFO: ******* Starting Search Customer By Name **********
+2022-04-29 11:22:32,082: INFO: ******* Starting Search Customer By Name **********
+2022-04-29 11:22:32,082: INFO: ******* Starting Search Customer By Name **********
+2022-04-29 11:22:32,082: INFO: ******* Starting Search Customer By Name **********
+2022-04-29 11:22:32,082: INFO: ******* Starting Search Customer By Name **********
+2022-04-29 11:23:07,449: INFO: ************* searching customer by Name **********
+2022-04-29 11:23:07,449: INFO: ************* searching customer by Name **********
+2022-04-29 11:23:07,449: INFO: ************* searching customer by Name **********
+2022-04-29 11:23:07,449: INFO: ************* searching customer by Name **********
+2022-04-29 11:23:07,449: INFO: ************* searching customer by Name **********
+2022-04-29 11:23:15,862: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-04-29 11:23:15,862: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-04-29 11:23:15,862: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-04-29 11:23:15,862: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-04-29 11:23:15,862: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-04-29 14:38:45,217: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 14:38:45,367: INFO: ************ Verifying Login DDT test ************
+2022-04-29 14:39:15,363: INFO: ************  Login DDT test is passed ************
+2022-04-29 14:40:38,881: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 14:40:38,881: INFO: ************ Verifying Login DDT test ************
+2022-04-29 14:40:52,798: INFO: ************  Login DDT test is passed ************
+2022-04-29 14:41:05,946: INFO: ************  Login is passed ************
+2022-04-29 14:49:49,690: INFO: ************ Test_001_Login ************
+2022-04-29 14:49:49,690: INFO: ************ Verifying Home page title  ************
+2022-04-29 14:49:55,128: INFO: ************ Home page title test is passed ************
+2022-04-29 14:49:59,459: INFO: ************ Verifying Login test ************
+2022-04-29 14:50:09,242: INFO: ************  Login test is passed ************
+2022-04-29 14:51:01,777: INFO: ************ Test_001_Login ************
+2022-04-29 14:51:01,778: INFO: ************ Verifying Home page title  ************
+2022-04-29 14:51:06,627: INFO: ************ Home page title test is passed ************
+2022-04-29 14:51:10,249: INFO: ************ Verifying Login test ************
+2022-04-29 14:51:26,425: INFO: ************  Login test is passed ************
+2022-04-29 14:51:57,100: INFO: ************ Test_001_Login ************
+2022-04-29 14:51:57,100: INFO: ************ Verifying Home page title  ************
+2022-04-29 14:52:01,830: INFO: ************ Home page title test is passed ************
+2022-04-29 14:52:05,360: INFO: ************ Verifying Login test ************
+2022-04-29 14:52:41,174: INFO: ************  Login test is passed ************
+2022-04-29 14:52:56,283: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 14:52:56,283: INFO: ************ Verifying Login DDT test ************
+2022-04-29 14:53:10,191: INFO: ************  Login DDT test is passed ************
+2022-04-29 14:53:23,529: INFO: ************  Login is passed ************
+2022-04-29 14:55:57,485: INFO: ========== Starts Test_002_DDT_Login ===========
+2022-04-29 14:55:57,485: INFO: ************ Verifying Login DDT test ************
+2022-04-29 14:56:28,337: INFO: ************  Login DDT test is passed ************
+2022-04-29 14:56:42,572: INFO: ************  Login is passed ************

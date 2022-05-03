@@ -1,0 +1,312 @@
+1648716336144	geckodriver	INFO	Listening on 127.0.0.1:65412
+1648716339250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65413" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileBCyRgC"
+1648716343669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Murugavel_4093\\AppData\\Local\\Temp\\rust_mozprofileBCyRgC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65413/devtools/browser/d679494e-ff60-4297-bbd8-a1a50bf1f0fe
+1648716365595	Marionette	INFO	Listening on port 65418
+1648716365948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648716373672	Marionette	INFO	Stopped listening on port 65418
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileBCyRgC\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileBCyRgC\sessionCheckpoints.json)
+1648716378972	geckodriver	INFO	Listening on 127.0.0.1:65465
+1648716382001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65466" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileXOhxuo"
+1648716383487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Murugavel_4093\\AppData\\Local\\Temp\\rust_mozprofileXOhxuo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65466/devtools/browser/a98a9f70-5100-4ffd-ad9b-746e09e80d7d
+1648716387149	Marionette	INFO	Listening on port 65471
+1648716387280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648716413684	Marionette	INFO	Stopped listening on port 65471
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"sessionstore-final-state-write-complete":true,"profile-change-teardown":true,"profile-before-change":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileXOhxuo\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileXOhxuo\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileXOhxuo\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileXOhxuo\sessionCheckpoints.json)
+1648716932453	geckodriver	INFO	Listening on 127.0.0.1:49200
+1648716935488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49201" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileKyOsjL"
+1648716936402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Murugavel_4093\\AppData\\Local\\Temp\\rust_mozprofileKyOsjL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49201/devtools/browser/8ccb2f14-7ceb-4440-8db8-953134abf408
+1648716940441	Marionette	INFO	Listening on port 49206
+1648716940778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648716947664	Marionette	INFO	Stopped listening on port 49206
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileKyOsjL\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileKyOsjL\sessionCheckpoints.json)
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileKyOsjL\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileKyOsjL\sessionCheckpoints.json)
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileKyOsjL\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileKyOsjL\sessionCheckpoints.json)
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648716950606	geckodriver	INFO	Listening on 127.0.0.1:49236
+1648716953646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49237" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileIZ7goi"
+1648716953971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Murugavel_4093\\AppData\\Local\\Temp\\rust_mozprofileIZ7goi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49237/devtools/browser/8faadc58-02d6-4b4b-ac32-52828adac453
+1648716957207	Marionette	INFO	Listening on port 49242
+1648716957544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648716989915	Marionette	INFO	Stopped listening on port 49242
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileIZ7goi\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileIZ7goi\sessionCheckpoints.json)
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileIZ7goi\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileIZ7goi\sessionCheckpoints.json)
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"sessionstore-final-state-write-complete":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileIZ7goi\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileIZ7goi\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileIZ7goi\sessionCheckpoints.json.tmp) to destination(C:\Users\Murugavel_4093\AppData\Local\Temp\rust_mozprofileIZ7goi\sessionCheckpoints.json)
+1649683933101	geckodriver	INFO	Listening on 127.0.0.1:53765
+1649683936226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53766" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofilesuVTHv"
+1649684432011	geckodriver	INFO	Listening on 127.0.0.1:54375
+1649684435056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofilevDZ7CQ"
+1649684436921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofilevDZ7CQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54376/devtools/browser/4747949f-5b7b-424f-a4b2-60ef285f03ae
+1649684443423	Marionette	INFO	Listening on port 54402
+Read port: 54402
+1649684444147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649684701721	Marionette	INFO	Stopped listening on port 54402
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true,"sessionstore-final-state-write-complete":true}
+WARNING: OperationError: Could not move temporary file(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofilevDZ7CQ\sessionCheckpoints.json.tmp) to destination(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofilevDZ7CQ\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofilevDZ7CQ\sessionCheckpoints.json.tmp) to destination(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofilevDZ7CQ\sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofilevDZ7CQ\sessionCheckpoints.json.tmp) to destination(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofilevDZ7CQ\sessionCheckpoints.json)
+[Parent 1808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649684713196	geckodriver	INFO	Listening on 127.0.0.1:54600
+1649684716162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileeSeF03"
+1649684716914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileeSeF03\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54601/devtools/browser/1bfd897f-9a01-43d5-b2ba-02e39cc98cb1
+1649684720731	Marionette	INFO	Listening on port 54634
+Read port: 54634
+1649684720766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649684759248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:78223
+n.ajax@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:86:4297
+t@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:42174
+initOnce@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:42576
+init@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:43224
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:1375:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30005
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30307
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofileeSeF03\bookmarkbackups\bookmarks-2022-04-11_11_W3q0y+6Pkp5alqVMip3iGw==.jsonlz4) because it does not exist
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649736313969	Marionette	INFO	Stopped listening on port 54634
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+63a-fcd3-4191-8888-ce513c2b10f4
+1649736150998	Marionette	INFO	Listening on port 61039
+Read port: 61039
+1649736151198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649736163122	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:78223
+n.ajax@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:86:4297
+t@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:42174
+initOnce@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:42576
+init@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:43224
+@https://admin-demo.nopcommerce.com/admin/:2517:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30005
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30307
+1649736301427	Marionette	INFO	Stopped listening on port 61039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650436089472	geckodriver	INFO	Listening on 127.0.0.1:52996
+1650436092549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofile7fMTJ9"
+1650436097126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofile7fMTJ9\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:52997/devtools/browser/bf1bbadc-b736-4af9-bc5f-e5d10f320350
+1650436107775	Marionette	INFO	Listening on port 53029
+Read port: 53029
+1650436107971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650436140426	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:78223
+n.ajax@https://admin-demo.nopcommerce.com/js/CustomerCreate.Footer.scripts.js?v=8ef0mlvwOS9XzoujWWSixWqJkc0:85:4297
+t@https://admin-demo.nopcommerce.com/js/CustomerCreate.Footer.scripts.js?v=8ef0mlvwOS9XzoujWWSixWqJkc0:91:42174
+initOnce@https://admin-demo.nopcommerce.com/js/CustomerCreate.Footer.scripts.js?v=8ef0mlvwOS9XzoujWWSixWqJkc0:91:42576
+init@https://admin-demo.nopcommerce.com/js/CustomerCreate.Footer.scripts.js?v=8ef0mlvwOS9XzoujWWSixWqJkc0:91:43224
+@https://admin-demo.nopcommerce.com/Admin/Customer/Create:1115:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30005
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30307
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650436559908	Marionette	INFO	Stopped listening on port 53029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650438982076	geckodriver	INFO	Listening on 127.0.0.1:53958
+1650438985074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileTi3zhT"
+1650438989622	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileTi3zhT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53959/devtools/browser/7232d99f-a01f-4684-8910-f968abf066fd
+1650439027541	Marionette	INFO	Listening on port 54123
+Read port: 54123
+1650439028407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.sololearn.com/Scripts/fngprnt.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.sololearn.com/Scripts/fngprnt.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 10316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k-Lxrj_3cR5KhrMTVpzAVOH1CgwXrUvkekFpn42ZeoQ.js line 1 > eval line 459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js, line 1: Error: CE: multiple userscripts installed
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1650461719400	Marionette	INFO	Stopped listening on port 54123
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650463672283	geckodriver	INFO	Listening on 127.0.0.1:56301
+1650463675361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileR3HP6H"
+1650463678684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileR3HP6H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56302/devtools/browser/70f9c531-8d05-4ae8-9b1d-ceb329390302
+1650463690520	Marionette	INFO	Listening on port 56406
+Read port: 56406
+1650463690753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650463733554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:78223
+n.ajax@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:86:4297
+t@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:42174
+initOnce@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:42576
+init@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:43224
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:1375:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30005
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30307
+1650464732025	Marionette	INFO	Stopped listening on port 56406
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofileR3HP6H\sessionCheckpoints.json.tmp) to destination(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofileR3HP6H\sessionCheckpoints.json)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileD523sx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56797/devtools/browser/e80da142-a3cb-4b10-a14e-4fdede0ca5e0
+1650463864784	Marionette	INFO	Listening on port 56820
+Read port: 56820
+1650463864813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650463891610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:78223
+n.ajax@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:86:4297
+t@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:42174
+initOnce@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:42576
+init@https://admin-demo.nopcommerce.com/js/CustomerList.Footer.scripts.js?v=xmzoCAzW3rGfXyFMlwN0-pJR2Ow:92:43224
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:1375:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30005
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30307
+1650464735597	Marionette	INFO	Stopped listening on port 56820
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofileD523sx\sessionCheckpoints.json.tmp) to destination(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofileD523sx\sessionCheckpoints.json)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofileD523sx\sessionCheckpoints.json.tmp) to destination(C:\Users\MURUGA~1\AppData\Local\Temp\rust_mozprofileD523sx\sessionCheckpoints.json)
+1651060203112	geckodriver	INFO	Listening on 127.0.0.1:53058
+1651060206216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileGVAaRB"
+1651060212589	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURUGA~1\\AppData\\Local\\Temp\\rust_mozprofileGVAaRB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53059/devtools/browser/e410d42f-6899-4835-bcea-0db1ff1caea0
+1651060232774	Marionette	INFO	Listening on port 53168
+Read port: 53168
+1651060233208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651060239864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651077820714	Marionette	INFO	Stopped listening on port 53168
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
