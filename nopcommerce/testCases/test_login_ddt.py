@@ -7,7 +7,7 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 from utilities import XLUtils
 
-
+# Test case for login using DDT(Read data from .xlsx)
 class Test_002_DDT_Login:
     baseURL = ReadConfig.getApplicationURL()
     path = ".//testData/loginData.xlsx"

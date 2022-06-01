@@ -4,7 +4,7 @@ from datetime import datetime
 
 from utilities.readProperties import ReadConfig
 
-
+# Logger generator for Test case here
 class LogGen:
 
     @staticmethod

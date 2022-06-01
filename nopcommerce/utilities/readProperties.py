@@ -3,7 +3,7 @@ import configparser
 config = configparser.RawConfigParser()
 config.read(".\\Configurations\\config.ini")
 
-
+# Read all the static and config data from .ini file
 class ReadConfig:
 
     @staticmethod

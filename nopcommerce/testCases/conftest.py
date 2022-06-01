@@ -11,6 +11,7 @@ from webdriver_manager.microsoft import IEDriverManager
 
 # from utilities.customLogger import LogGen
 
+# Browser setup methods for different browser
 @pytest.fixture()
 def setup(browser):
     # logger = LogGen.logger()
@@ -52,7 +53,7 @@ def pytest_addoption(parser):  # This will get value from CLI/hooks
 def browser(request):  # This will return the browser value to setup method
     return request.config.getoption("--browser")
 
-# PyTest HTML Report
+# PyTest HTML Report headers
 def pytest_configure(config):  # This is hook for adding environment info in HTML report
     config._metadata['Project Name'] = 'Nop Commerce'
     config._metadata['Module Name'] = 'Customer'

@@ -6,6 +6,8 @@ from pageObjects.SearchCustomerPage import SearchCustomer
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
+# Test case for search customer by email here
+
 class Test_SearchCustomerByEmail_004:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUsername()

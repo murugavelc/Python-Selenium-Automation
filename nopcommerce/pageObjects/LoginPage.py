@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-
+# Login page objects and methods here
 class LoginPage:
     textbox_username_xpath = '//*[@id="Email"]'
     textbox_password_xpath = '//*[@id="Password"]'

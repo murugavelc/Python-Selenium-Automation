@@ -1,8 +1,8 @@
 from selenium.webdriver.common.by import By
 
-
+# search customer page object and methods here
 class SearchCustomer():
-    # Add customer Page
+
     txtEmail_id = "SearchEmail"
     txtFirstName_id = "SearchFirstName"
     txtLastName_id = "SearchLastName"

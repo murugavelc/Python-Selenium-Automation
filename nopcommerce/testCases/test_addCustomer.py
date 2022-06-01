@@ -10,6 +10,7 @@ from utilities.customLogger import LogGen
 import string
 import random
 
+# Test case for add customer here
 class Test_003_AddCustomer:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUsername()
@@ -75,6 +76,6 @@ class Test_003_AddCustomer:
         self.driver.close()
         self.logger.info("******* Ending Add customer test **********")
 
-
+# Generate random and unique email for email field
 def random_email_generator(size=8, chars=string.ascii_lowercase + string.digits):
     return ''.join(random.choice(chars) for x in range(size))
